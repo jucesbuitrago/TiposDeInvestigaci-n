@@ -1,2 +1,2 @@
-# TiposDeInvestigaci-n
+# TiposDeInvestigacion
 Tipos de Investigación
